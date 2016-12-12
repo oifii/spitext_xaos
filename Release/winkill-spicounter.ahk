@@ -1,0 +1,2 @@
+;WinKill , spicountertitle
+WinKill , mywintitle

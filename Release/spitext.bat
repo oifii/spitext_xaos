@@ -1,0 +1,1 @@
+start "" "D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spitext_xaos\Release\spitext.exe" "00000000"

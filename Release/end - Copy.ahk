@@ -1,0 +1,1 @@
+msgbox this is spitext endcopy.ahk
